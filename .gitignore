@@ -1,0 +1,44 @@
+# Arquivos de classes compiladas
+*.class
+
+# Arquivos de pacote
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.nar
+*.rar
+*.par
+
+# Arquivos de log
+*.log
+log/
+logs/
+
+# Pastas e arquivos de IDE (específicos do VS Code, IntelliJ, Eclipse)
+.vscode/
+*.iml
+*.ipr
+*.iws
+.project
+.classpath
+.settings/
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# Arquivos temporários
+*~
+*.bak
+*.tmp
+*.swp
+*#
