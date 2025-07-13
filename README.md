@@ -21,7 +21,7 @@ Este projeto tem como objetivo desenvolver um sistema de gerenciamento de tarefa
 
 A estrutura de pastas segue as convenções Maven e padrões de projeto:
 
-```bash
+```
 ├── src/
 │   ├── main/
 │   │   └── java/
@@ -49,7 +49,7 @@ A estrutura de pastas segue as convenções Maven e padrões de projeto:
     * O VS Code com o "Extension Pack for Java" é recomendado.
 2.  **Clonar o Repositório**:
     ```bash
-    git clone [URL_DO_SEU_REPOSITORIO]
+    git clone https://github.com/antonioneto2/gerenciador-tarefas.git
     cd gerenciador-tarefas
     ```
 3.  **Compilar e Executar**:
