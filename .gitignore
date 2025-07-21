@@ -10,6 +10,7 @@
 *.nar
 *.rar
 *.par
+*.csv
 
 # Arquivos de log
 *.log
