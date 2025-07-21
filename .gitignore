@@ -25,6 +25,7 @@ logs/
 .project
 .classpath
 .settings/
+src/test/
 
 # Maven
 target/
